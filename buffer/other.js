@@ -1,7 +1,7 @@
 /**
 
 author:webxiaoma
-sites:http://www.webxiaoma.com
+sites:http://webxiaoma.com/blogs/2017/09/20/node-buffer
 
 练习主要包括:
 	buf.write()
