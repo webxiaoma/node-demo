@@ -1,3 +1,10 @@
+/**
+
+author:webxiaoma
+sites:http://www.webxiaoma.com
+
+**/
+
 
 // 创建一个长度为 10、且用 0 填充的 Buffer。
 const buffer1 = Buffer.alloc(10);

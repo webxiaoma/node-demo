@@ -1,3 +1,13 @@
+/**
+
+author:webxiaoma
+sites:http://www.webxiaoma.com
+
+**/
+
+
+
+
 
       // ****************  Buffer.from(array) *******************
 
