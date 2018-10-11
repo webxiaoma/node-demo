@@ -5,7 +5,7 @@ const http = require('http');
 //  创建一个简单的服务器
 
 http.createServer((req,res) => {
-	console.log(res)
+	console.log("request start")
 	res.writeHead(200,{
 		'constent-type':'text/plain'
 	});
@@ -29,3 +29,4 @@ console.log("已经在运行在：9999端口")
 // })
 
 // server.listen(9999)
+
