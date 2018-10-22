@@ -12,7 +12,7 @@ http.createServer((req,res) => {
 	res.write("welcome node-http");
 	res.end();
 }).listen(9999)
-console.log("已经在运行在：9999端口")
+console.log("已经运行在：9999端口")
 
 
 // 上面是对下面的封装

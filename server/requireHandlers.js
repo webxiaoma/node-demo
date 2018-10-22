@@ -53,8 +53,6 @@ exports.updated = ({req,res,method})=>{
         res.write(`<img src="${imgName}"/>`)
         res.end()
      })
-    
-
 }
 
 exports.catalogue = ({req,res,method})=>{
