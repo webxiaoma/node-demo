@@ -28,7 +28,6 @@ exports.home = ({req,res,method})=>{
                     <input type="file" name="file" >
                 </p>
                 <input type="submit" value="提交">
-            
             </form>
         </body>
         </html>
