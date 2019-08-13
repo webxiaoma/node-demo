@@ -1,0 +1,25 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "node练习库",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webxiaoma/node-demo.git"
+  },
+  "keywords": [ 
+    
+  ],
+  "author": "webxiaoma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webxiaoma/node-demo/issues"
+  },
+  "homepage": ""
+}
