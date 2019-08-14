@@ -4,8 +4,7 @@ let apiHandlers  = {};
 
 
 apiHandlers['/'] = api.home; // 首页
-
-
+apiHandlers['/about/about.html'] = api.aboutAbout; // 关于我们
 
 
 module.exports = ({ pathname, method, req,res }) =>{
