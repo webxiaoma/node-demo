@@ -26,7 +26,6 @@ let staticHandler = ({ req, res, pathname})=>{
         res.write("没有发现文件");
         res.end();
     }
-}
-
+}       
 
 module.exports = staticHandler;
